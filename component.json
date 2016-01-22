@@ -1,0 +1,7 @@
+{
+    "repos": "https://github.com/shuoshi/weui.git",
+    "version": "0.2.3",
+    "description": "wechat mobile ui",
+    "main": "dist/style/weui.css",
+    "name": "weui"
+}
