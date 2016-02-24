@@ -2,6 +2,6 @@
     "repos": "https://github.com/weui/weui",
     "version": "v0.3.0",
     "description": "wechat mobile ui",
-    "main": "weui.css",
+    "main": "dist/style/weui.css",
     "name": "weui"
 }
